@@ -1,4 +1,4 @@
-FROM kalilinux/kali-linux-docker
+FROM kalilinux/kali-rolling:latest
 # Metadata params
 ARG BUILD_DATE
 ARG VERSION
